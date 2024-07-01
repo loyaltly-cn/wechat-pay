@@ -1,8 +1,8 @@
 {
-  "mchID": "1662910119",
-  "mchCertificateSerialNumber":"27DEB1D92003A767E289CC2172FE518F8D45ABE6",
-  "mchAPIv3Key": "SHPailematechnologySinceyear2023",
-  "appId":"wxd24f99415af2ded5",
-  "notifyUrl":"https://pailemapro.com/flask/notify",
+  "mchID": "",
+  "mchCertificateSerialNumber":"",
+  "mchAPIv3Key": "",
+  "appId":"",
+  "notifyUrl":"",
   "port": "2002"
 }
