@@ -11,7 +11,7 @@
 - 使用前请确保已获取config.json对应的参数
 - 修改config.json参数时请勿修改任何的key
 - pay.sh 只能在amd64下的linux环境运行
-- 请确保config.json 在oss.sh / oss.exe同级目录下
+- 请确保config.json 在xxx.sh / xxx.exe同级目录下
 - 配置http端口时请确保port的值为string类型
 
 ### API
